@@ -1,0 +1,2 @@
+<?php
+?><div class="pa imgdrop pointer"><div class="vac">Загрузить фон</div></div><div class="pa helpform hidden pointer animate"><div class="vac">Подсказка</div></div><div class="pa helpfield"><div class="vac">Рисуйте фигуры: круг, прямоугольник, отрезок</div></div><canvas id = "tablet" ></canvas>

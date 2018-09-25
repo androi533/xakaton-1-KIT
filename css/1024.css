@@ -1,0 +1,144 @@
+
+/***********************************************************/
+@media only screen and (max-device-width: 1023px) and (min-device-width: 667px), only screen and (max-width: 1023px) and (min-width: 667px) {
+	.body, .html{
+		min-width: 667px;
+		max-width: 1023px;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+
+	.header {
+		position: fixed;
+		display: block;
+		top: 0;
+		margin: 0 auto;
+		z-index:999;
+	}
+	
+	.name_Main {
+		margin-left: 18px;
+		max-width: 37%;
+	}
+	
+	.phone_Main {
+		min-width: 173px;
+		margin-right: 18px;
+	}
+	
+	.logo_Main {
+		width: 150px;
+		height: 76px;
+	}
+	
+	#cont_Main {
+		display: block;
+		margin-top:112px;
+	}
+	
+	#cont_Main .offer {
+		margin-top: 44px;
+	}
+	
+	#cont_Main .offer span{
+		margin-top: 112px;
+		vertical-align: middle;
+		display: inline-block;	
+	}
+	
+	#cont_Main .offer2 {
+		padding-top: 20px;
+		width: 80%;
+		margin: -10px auto 0;
+		padding-top:50px;
+	}
+
+	.toform {
+		display: block;
+	}
+	
+	.wrap_Main {
+		height: auto;
+		min-height: 800px;
+		max-height: 1446px;
+	}
+	
+	.forma_Main {
+		display: block;
+		width: 512px;
+		float: none;
+		margin: 10px auto 0;
+		height: 222px;
+	}
+
+    .footer .conf {
+	    left: 73%;
+        top: 28px;
+    }
+    
+	
+    .formtext {
+        height: 66px;
+    }
+
+	.anibtn {
+		margin-left: -3px;
+	}
+
+	.forma_Main input {
+		display: inline-block;
+		width: 468px;
+		text-align: center;
+	    /*margin: 0 10px 19px;*/
+	}
+	
+	.forma_Main #buton {
+		width: 468px;
+	}
+	
+	.middle_Main {
+		text-align: center;
+		height: auto;
+		padding-top:20px;
+		padding-bottom: 98px;
+		width: 100%;
+	}
+	
+	.video_Main {
+		float: none;
+		display: inline-block;		
+		padding-bottom: 18px;
+	}
+
+	.arcticmodal-overlay {
+		display: none;
+	}
+
+	.arcticmodal-container {
+		display: none;
+	}
+	
+	.conf-pop {
+	    width: 80%;
+	}
+
+	.footer .addi {
+		width: 264px;
+	}
+	
+	#after_Main input + label:after {
+		left: -36px;
+	}
+
+	#after_Main input + label:after {
+		left: -36px;
+	}
+
+	.anibtn_Main {
+		margin-left: -3px;
+	}
+
+	.linksblock {
+    	max-width: 500px;
+    }
+}

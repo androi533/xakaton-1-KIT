@@ -1,0 +1,189 @@
+@media only screen and (max-device-width: 666px), only screen and (max-width: 666px) {
+
+	.body, .html {
+		min-width: 319px;
+		max-width: 666px;
+		overflow-y: auto;
+		overflow-x: hidden;
+	}
+
+	.wrap_Main {
+		height: auto;
+		min-height: 734px;
+		max-height: 1434px;
+	}
+	
+	#wrapper_Main {
+	/*	margin: -65px auto 0;
+		padding-top: 65px;
+		width: 100%;*/
+		overflow: unset;
+	}
+
+	.header {
+	    position: fixed;
+	    display: block;
+	    top: 0;
+	    left: 0;
+	    right: 16px;
+	    /* margin: 0 auto; */
+	    z-index: 999;
+	    /* min-height: 74px; */
+	    height: auto;
+	    min-width: 303px;
+	    /* text-align: center; */
+	    width: auto;
+	}
+
+	.linksblock {
+		text-align: center;
+	}
+
+	.forma_Main {
+	    /* display: block; */
+	    /* position: relative; */
+	    margin: 0 auto;
+	    min-height: 238px;
+	    /* max-height: 360px; */
+	    /* height: auto; */
+	    width: 100%;
+	    min-width: 303px;
+	    z-index: 999;
+	}
+
+	.formtext {
+		height: auto;
+	}
+
+	.formbot {
+		height: auto;
+	}
+
+	.forma_Main input {
+		min-width: 262px;
+		max-width: 94%;
+    	width: 100%;
+	}
+
+	.p22 {
+	    padding-left: 6px;
+	    padding-right: 6px;
+	}
+
+	#after_Main .label {
+		display: none;
+	}
+
+	#after_Main .anibtn {
+		display: block;
+		margin-left: -3px;
+	}
+
+	.arcticmodal-overlay {
+		display: none;
+	}
+
+	.arcticmodal-container {
+		display: none;
+	}
+
+	.footer {
+		display: none;
+	}
+
+	.middle_Main {
+		display: inline-block;
+		height: auto;
+		width: 100%;
+	}
+	
+	.video_Main {
+		width: 100%;
+		min-width: 303px;
+		float: none;
+		margin: 0 auto;
+		height: 234px;
+		text-align: center;
+	}
+	
+	#videoR_Main {
+		margin: unset;
+		width: 296px;
+		height: 234px;
+	}
+
+	.name_Main {
+	    position: relative;
+	    display: inline-block;
+	    margin: 0 auto;
+	    float: none;
+	    line-height: 24px;
+	    width: 100%;
+	    max-width: 100%;
+	    min-width: 303px;
+	}
+	
+	.name_Main p {
+		height: auto;
+	}
+
+	.name_Main p a {
+		display: block;
+		vertical-align: 0;
+		cursor: default;
+	}
+	
+	.phone_Main {
+	    display: block;
+	    min-width: 303px;
+	    float: none;
+	    position: relative;
+	    margin: 0 auto;
+	    max-width: 100%;
+	    margin-top: 12px;
+	}
+    
+	.phone_Main span {
+		margin-right: 5px;
+	}
+	
+	.phone_Main a.callback {
+		margin-right: 0;
+		padding-left: 22px;
+	}
+	
+	.logo_Main {
+		display: none;
+	}
+	
+	#tubular-container {
+		display: block;
+	}
+
+	#cont_Main {
+		width:100%;
+		margin-top: 108px;
+	}
+	
+	#cont_Main .offer{
+		padding: 0;
+		line-height: 30px;
+        height: auto;
+		margin-top: 0px;
+		padding-top: 20px;
+	}
+	
+	#cont_Main .offer span{
+		line-height: 20px;
+	}
+
+	.toform {
+		display: block;
+	}
+
+	#cont_Main .offer2 {
+		padding-top: 16px;
+		height: auto;
+        margin-top: 10px;
+	}
+}

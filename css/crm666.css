@@ -1,0 +1,179 @@
+@media only screen and (max-device-width: 666px), only screen and (max-width: 666px) {	
+	#kol {
+		display: none;
+	}
+
+	.arcticmodal-overlay {
+		display: none;
+	}
+
+	.arcticmodal-container {
+		display: none;
+	}
+
+	footer {
+		display: none;
+	}
+
+	.middle {
+		display: block;
+		margin-left: 0;
+		margin-top: 10px;
+		height: 262px;
+	}
+	
+	.video{
+		display: block;
+		width: 100%;
+		float: none;
+		margin: 0 auto;
+		
+	}
+	
+	#videoR {
+		margin-left: 0;
+		width: 300px;
+		height: 234px;
+	}
+
+	header {
+	    left: 64px;
+	    font-size: 1.5em;
+	}
+
+	.loginicon {
+		left: 0;
+		top: 0;
+	}
+	
+	.wrap2 {
+		position: fixed;
+	    left: 0;
+	    right: 0;
+	    top: 100px;
+	    bottom: 0;
+	}
+
+	.promo {
+		width: 94%;
+		padding: 8px;
+	}
+
+	.header_crm p {
+		display: none;
+	}
+
+	.name{
+		position:relative;
+		display: block;
+		margin: 0 auto;
+		float: none;
+		line-height: 24px;
+		width: 320px;
+	}
+	
+	.name p {
+		height:22px;
+	}
+	.name p a {
+		display: block;
+		vertical-align: 0;
+		cursor: default;
+	}
+	
+	.offer {
+		height: 106px;
+	}
+	
+	.offer2 {
+		height: 80px;
+	}
+	
+	.phone{
+		display: block;
+		width: 320px;
+		float: none;
+		position: relative;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.phone span {
+		margin-right: 5px;
+	}
+	
+	.phone span:hover #clb{
+		background-image: none;
+	}	
+	
+	.phone a.callback {
+		margin-right: 0;
+		padding-left: 22px;
+	}
+	.logo{
+		display: none;
+	}
+	#tubular-container{
+		display: block;
+	}
+	#tubular-shield {
+		/*height: 662px;*/
+	}
+	
+	body, html{
+		min-width: 302px;
+		max-width: 666px;
+	}
+	
+	#cont{
+		width:100%;
+		margin-top: 72px;
+		text-align: center;
+	}
+	
+	#cont .offer{
+		padding: 0;
+		font-size: 7em;
+		font-weight: 300;
+		line-height: 0;
+		height: 84px;
+		margin-top: 0px;
+		padding-top: 20px;
+	}
+	
+	#cont .offer span{
+		line-height: 20px;
+	}
+	
+	#cont .offer2 {
+		padding-top: 12px;
+		font-size: 4.2em;
+		font-weight: 300;
+		margin-top: 0px;
+		height: 102px;
+	}
+	
+	.formacall{
+		width: 274px;
+	}
+	.formacall input {
+		width: 206px;
+	}
+	.close2 {
+		right: 115px;
+	}
+	#butoncall{
+		width: 222px;
+	}
+	.fast {
+		display: none;
+	}
+
+			#after .label {
+				display: none;
+			}
+			#after .anibtn {
+				display: block;
+				margin-left: -3px;
+			}
+			
+}

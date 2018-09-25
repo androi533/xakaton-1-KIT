@@ -1,0 +1,3 @@
+AddOutputFilterByType DEFLATE application/javascript
+AddType application/octet-stream .pdf
+# deny from all

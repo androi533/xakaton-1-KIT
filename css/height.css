@@ -1,0 +1,19 @@
+@media only screen and (max-device-height: 1200px){
+	.wrap_Main {
+		height: auto;
+	}
+
+	.iconlink {
+		position:relative;
+	}
+}
+
+@media only screen and (min-device-height: 1200px){
+	.wrap_Main {
+		height: 100%;
+	}
+
+	.iconlink {
+		position:absolute;
+	}
+}
